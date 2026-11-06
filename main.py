@@ -1,1 +1,1 @@
-import seit-p
+import seit_p
